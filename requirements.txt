@@ -1,0 +1,7 @@
+pymssql
+google-generativeai
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+pyodbc
